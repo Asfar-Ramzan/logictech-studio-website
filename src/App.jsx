@@ -12,6 +12,8 @@ import WebDevelopment from './pages/WebDevelopment';
 import MobileDevelopment from './pages/MobileDevelopment';
 import CloudSolutions from './pages/CloudSolutions';
 import Footer from './components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 
